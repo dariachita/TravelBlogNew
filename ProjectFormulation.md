@@ -58,4 +58,4 @@ The core focus of the project will be on the following required functionalities:
 - Uploading images or media within blog posts (which could be considered as future enhancements).
 - Extensive admin controls for moderating content beyond basic CRUD operations.
 
-These additional features represent future extensions of the platform and would be considered if time and resources allow. However, for the initial phase, I will focus on meeting the primary technical requirements and delivering a working, secure, and user-friendly blog system.
+These additional features represent future extensions of the platform and would be considered if time and resources allow. However, for the initial phase, we will focus on meeting the primary technical requirements and delivering a working, secure, and user-friendly blog system.
